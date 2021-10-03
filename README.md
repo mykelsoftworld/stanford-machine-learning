@@ -10,7 +10,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 * Solution to Quizzes
 
 ## Certificate
-* [Verified Certificate](https://www.coursera.org/account/accomplishments/certificate/GDDBFB572MUQ)
+* [Verified Certificate]( https://www.coursera.org/account/accomplishments/certificate/QN4XHUZBRJYW)
 
 ## References
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
