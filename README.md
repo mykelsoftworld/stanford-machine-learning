@@ -3,9 +3,10 @@
 This is my solution to all the programming assignments and quizzes of Machine-Learning (Coursera) taught by Andrew Ng. After completing this course i got a broad idea of Machine learning algorithms. i am happy to have gone through such a well put course that present the concept of machine learning from a first principle.
 
 ## Lecture Delivery and certification
+* Video classes
 * Lectures Slides
-* Solution to programming assignment
-* Solution to Quizzes
+* programming assignment
+* Quizzes
 ## Content
 ### Week 1
 * Linear regression with one variable
